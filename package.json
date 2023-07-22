@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.17",
+    "react-router-dom": "^6.4.2"
+  }
+}
